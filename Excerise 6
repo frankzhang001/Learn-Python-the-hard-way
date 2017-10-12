@@ -1,0 +1,19 @@
+#bellow is the code about excerse 6
+x=('There are %d types of people.' %10)#define the value of x
+binary='binary'#define the binary
+do_not="don/'t"#define do_not
+y='those who know %s and those who %s'%(binary,do_not)#define
+print(x)#print x
+print(y)#print y
+
+print('I said :%r.' %x)#print i said and x
+print('I also said:%s' %y)#pring i also said and y
+hilarious=False#define hilarious as False
+joke_evaluation='Isn\'t that joke so funny ?! %r'#define joke_evaluation as Is n't that joke so funny?
+print (joke_evaluation %hilarious)#print one special %'s using method'
+w="This is the left side of..."#define w
+e="a string with a right side"#define e
+
+print(w+e)#print w+e
+
+#
