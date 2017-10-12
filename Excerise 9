@@ -1,0 +1,10 @@
+days="mon tue wed thu fri sat sun"#define days
+months='Jan\nFeb\nMar\nApr\nMay\nJun\nAug'#define months and add\n to make the effection of enter
+print(days)#print days
+print(months)#print months
+print("""
+There 's  something going on here .
+with the three double-quotes .
+We'll be able to type as much as we like .
+Even 4 lines if we want,or 5,or 6.
+""")#print the long sentence with different lines with """"
