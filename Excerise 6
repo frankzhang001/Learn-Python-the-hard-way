@@ -16,4 +16,4 @@ e="a string with a right side"#define e
 
 print(w+e)#print w+e
 
-#
+#The different between s% and r% is that s% display raw data ,and s% display to user
