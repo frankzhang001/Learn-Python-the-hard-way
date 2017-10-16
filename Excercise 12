@@ -1,0 +1,5 @@
+age=input("How old are you?")
+height=input("How tall are you?")
+weight=input("how much do you weight?")
+
+print("so,you're %r old ,%s tall and %s heavy." %(age,height,weight))
